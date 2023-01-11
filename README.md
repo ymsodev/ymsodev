@@ -9,3 +9,4 @@
 - **os**: EndeavourOS
 - **de**: Xfce
 - **terminal**: Alacritty
+- **theme**: Catppuccin
