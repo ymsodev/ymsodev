@@ -7,5 +7,5 @@
 ## setup
 - **machine**: ThinkPad T480s (i5-8350U, 8G mem)
 - **os**: EndeavourOS
-- **desktop**: Xfce
+- **de**: Xfce
 - **terminal**: Alacritty
