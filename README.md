@@ -3,3 +3,9 @@
 °˖✧◝(⁰▿⁰)◜✧˖°
   
 </div>
+
+## setup
+- **machine**: ThinkPad T480s (i5-8350U, 8G mem)
+- **os**: EndeavourOS
+- **desktop**: Xfce
+- **terminal**: Alacritty
