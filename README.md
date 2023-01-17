@@ -5,8 +5,8 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T480s (i5-8350U, 8G mem)
+- **machine**: ThinkPad T480 (i5-8350U, 16G mem)
 - **os**: EndeavourOS
-- **de**: Xfce
+- **wm**: i3
 - **terminal**: Alacritty
 - **theme**: Catppuccin
