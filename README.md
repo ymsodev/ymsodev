@@ -11,4 +11,5 @@ _One day, all I'll ever need on my machine is a terminal and a browser._
 - **os**: EndeavourOS Linux x86_64
 - **wm**: i3
 - **terminal**: Alacritty
+- **editor**: Neovim
 - **theme**: Catppuccin
