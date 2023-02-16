@@ -4,12 +4,10 @@
   
 </div>
 
-_One day, all I'll ever need on my machine is a terminal and a browser._
+_on a journey with a terminal and a browser_
 
 ## setup
-- **machine**: ThinkPad T480 (i5-8350U, 16G mem)
+- **machine**: ThinkPad X220 (i5-2520M, 8G mem)
 - **os**: EndeavourOS Linux x86_64
-- **wm**: i3
-- **terminal**: Alacritty
+- **wm**: sway
 - **editor**: Neovim
-- **theme**: Catppuccin
