@@ -2,8 +2,6 @@
   
 °˖✧◝(⁰▿⁰)◜✧˖°
   
-_on a journey with a terminal and a browser_
-  
 </div>
 
 ## setup
