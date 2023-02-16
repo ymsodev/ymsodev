@@ -2,9 +2,9 @@
   
 °˖✧◝(⁰▿⁰)◜✧˖°
   
-</div>
-
 _on a journey with a terminal and a browser_
+  
+</div>
 
 ## setup
 - **machine**: ThinkPad X220 (i5-2520M, 8G mem)
