@@ -5,7 +5,6 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad X220 (i5-2520M, 8G mem)
-- **os**: EndeavourOS Linux x86_64
-- **wm**: sway
+- **machine**: ThinkPad T480 (i5-8350U, 16G mem)
+- **os**: Pop!_OS 22.04 LTS x86_64
 - **editor**: Neovim
