@@ -2,6 +2,8 @@
   
 °˖✧◝(⁰▿⁰)◜✧˖°
   
+i only code for fun
+  
 </div>
 
 ## setup
