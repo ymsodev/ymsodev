@@ -7,6 +7,6 @@ i only code for fun
 </div>
 
 ## setup
-- **machine**: ThinkPad T480 (i5-8350U, 16G mem)
-- **os**: Pop!_OS 22.04 LTS x86_64
+- **machine**: ThinkPad T490s (i7-8665U, 16G)
+- **os**: Linux Mint 21.1 x86_64
 - **editor**: Neovim
