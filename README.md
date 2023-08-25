@@ -7,5 +7,5 @@
 ## setup
 - **machine**: ThinkPad T490s (i7-8665U, 16G) / ThinkPad X220 (i5-2520M, 8G)
 - **os**: Debian GNU/Linux 12 (bookworm) x86_64
-- **editor**: Micro / Neovim
+- **editor**: VS Code / Neovim 
 - **theme**: Catppuccin Mocha
