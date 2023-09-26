@@ -5,7 +5,7 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T490s (i7-8665U, 16G) / ThinkPad X220 (i5-2520M, 8G)
-- **os**: Debian GNU/Linux 12 (bookworm) x86_64
+- **machine**: ThinkPad T490s (i7-8665U, 16G)
+- **os**: Windows 11 / Endeavour OS
 - **editor**: VS Code / Neovim 
-- **theme**: Catppuccin Mocha
+- **theme**: Catppuccin macchiato
