@@ -5,7 +5,7 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T490s (i7-8665U, 16G)
-- **os**: Windows 11
+- **machine**: ThinkPad T470p
+- **os**: Ubuntu 22.04.3 LTS x86_64
 - **editor**: VS Code
 - **theme**: Catppuccin macchiato
