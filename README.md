@@ -6,6 +6,6 @@
 
 ## setup
 - **machine**: ThinkPad T470p
-- **os**: Ubuntu 22.04.3 LTS x86_64
-- **editor**: VS Code
+- **os**: Fedora Linux 39
+- **editor**: Neovim
 - **theme**: Catppuccin macchiato
