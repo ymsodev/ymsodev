@@ -6,6 +6,6 @@
 
 ## setup
 - **machine**: ThinkPad T470p
-- **os**: Fedora Linux 39
+- **os**: EndeavourOS
 - **editor**: Neovim
 - **theme**: Catppuccin macchiato
