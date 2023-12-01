@@ -5,7 +5,7 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T470p
+- **machine**: ThinkPad T490s
 - **os**: EndeavourOS
 - **editor**: Neovim
 - **theme**: Catppuccin macchiato
