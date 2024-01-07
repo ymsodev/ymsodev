@@ -5,7 +5,7 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T490s
-- **os**: Fedora 39
+- **machines**: M1 Mac Mini / ThinkPad X220
+- **os**: Fedora 39 Remix / Linux Mint
 - **editor**: Micro
 - **theme**: Catppuccin macchiato
