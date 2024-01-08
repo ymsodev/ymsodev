@@ -5,6 +5,6 @@
 </div>
 
 ## setup
-- **machines**: ThinkPad T490s
+- **machine**: ThinkPad T490s
 - **os**: Linux Mint
 - **editor**: Micro
