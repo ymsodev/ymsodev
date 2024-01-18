@@ -5,6 +5,6 @@
 </div>
 
 ## setup
-- **machine**: ThinkPad T490s
-- **os**: Linux Mint
-- **editor**: Micro
+- **machine**: Framework 13
+- **os**: Windows
+- **editor**: Helix
