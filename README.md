@@ -6,5 +6,5 @@
 
 ## setup
 - **machine**: Framework 13
-- **os**: Ubuntu
-- **editor**: Neovim
+- **os**: Windows 11
+- **editor**: Notepad++
